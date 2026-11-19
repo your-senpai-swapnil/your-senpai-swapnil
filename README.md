@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi I am Swapnil Dey <br><br>
-A passionate Full-Stack Engineer || AI Enthusiast || Tech Problem Solver from Bangladesh<br><br>🔭 I’m currently working on full-stack gaming apps and Java management portals.<br><br>👯 I’m looking to collaborate on open-source web backends and AI/ML projects.<br><br>🤝 I’m looking for help with advanced machine learning algorithms.<br><br>🌱 I’m currently learning Python predictive modeling and data-driven architecture.<br><br>💬 Ask me about Flutter UI, Laravel, or my AI job displacement thesis.<br><br>⚡ Fun fact I write music, play CoD, and I'm a massive One Piece fan (call me Joy Boy!).
+A passionate Full-Stack Engineer || AI Enthusiast || Tech Problem Solver from Bangladesh<br><br>⚡ Fun fact I write music, play CoD, and I'm a massive One Piece fan (call me Joy Boy!).
 
 
 ## 🌐 Socials:
